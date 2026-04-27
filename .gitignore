@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Local server output
+node_modules/
+.cache/
+.parcel-cache/
